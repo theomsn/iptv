@@ -1,241 +1,345 @@
 #EXTM3U
-#EXTINF:-1,(FR) TF1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/151.m3u8
-#EXTINF:-1,(FR) France 2 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/147.m3u8
-#EXTINF:-1,(FR) France 3 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/148.m3u8
-#EXTINF:-1,(FR) France 4 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/149.m3u8
-#EXTINF:-1,(FR) France 5 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/150.m3u8
-#EXTINF:-1,(FR) M6 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/303.m3u8
-#EXTINF:-1,(FR) Arte 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/152.m3u8
-#EXTINF:-1,(FR) W9 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/441.m3u8
-#EXTINF:-1,(FR) TMC 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/153.m3u8
-#EXTINF:-1,(FR) TFX 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1421.m3u8
-#EXTINF:-1,(FR) LCI 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24123.m3u8
-#EXTINF:-1,(FR) LCP 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6414.m3u8
-#EXTINF:-1,(FR) Gulli 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1426.m3u8
-#EXTINF:-1,(FR) France O 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/146.m3u8
-#EXTINF:-1,(FR) TF1 Series & Films 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1423.m3u8
-#EXTINF:-1,(FR) AB1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/22222.m3u8
-#EXTINF:-1,(FR) 6ter 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/906.m3u8
-#EXTINF:-1,(FR) RMC Decouverte 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1428.m3u8
-#EXTINF:-1,(FR) Cherie 25 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1422.m3u8
-#EXTINF:-1,(FR) TV Breizh
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/905.m3u8
-#EXTINF:-1,(FR) C8 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/440.m3u8
-#EXTINF:-1,(FR) RTL 9 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/907.m3u8
-#EXTINF:-1,(FR) C Star 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/891.m3u8
-#EXTINF:-1,(FR) Teva 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7477.m3u8
-#EXTINF:-1,(FR) BFM TV 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/577.m3u8
-#EXTINF:-1,(FR) C News 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1438.m3u8
-#EXTINF:-1,(FR) Comedie+ 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7495.m3u8
-#EXTINF:-1,(FR) KTO
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7486.m3u8
-#EXTINF:-1,(FR) RTS Une 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1633.m3u8
-#EXTINF:-1,(FR) RTS Deux 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1634.m3u8
-#EXTINF:-1,(FR) Ciné FX
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1435.m3u8
-#EXTINF:-1,(FR) Ciné Polar 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1434.m3u8
-#EXTINF:-1,(FR) Voyage 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6408.m3u8
-#EXTINF:-1,(FR) Teletoon+ 1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7489.m3u8
-#EXTINF:-1,(FR) Ushuaia TV
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7484.m3u8
-#EXTINF:-1,(FR) Paris Premiere 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7480.m3u8
-#EXTINF:-1,(FR) TV5 Monde 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/23169.m3u8
-#EXTINF:-1,(FR) TV5 Monde Info 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/23168.m3u8
-#EXTINF:-1,(FR) RTL TVI 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/16129.m3u8
-#EXTINF:-1,(FR) Club RTL
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/16133.m3u8
-#EXTINF:-1,(FR) Plug RTL 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/16134.m3u8
-#EXTINF:-1,(FR) La Une 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/16130.m3u8
-#EXTINF:-1,(FR) La Deux
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/16131.m3u8
-#EXTINF:-1,(FR) La Trois 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/16132.m3u8
-#EXTINF:-1,(FR) AB3 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/16135.m3u8
-#EXTINF:-1,(FR) Euronews 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/25982.m3u8
-#EXTINF:-1,(FR) France 24 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/25970.m3u8
-#EXTINF:-1,(FR) Disney Channel 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6399.m3u8
-#EXTINF:-1,(FR) Disney Channel +1
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6400.m3u8
-#EXTINF:-1,(FR) Disney XD 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6401.m3u8
-#EXTINF:-1,(FR) Mangas 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1425.m3u8
-#EXTINF:-1,(FR) Cartoon Network 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1004.m3u8
-#EXTINF:-1,(FR) Canal J 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7514.m3u8
-#EXTINF:-1,(FR) Boomerang 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7515.m3u8
-#EXTINF:-1,(FR) M6 Music 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7519.m3u8
-#EXTINF:-1,(FR) MTV 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7498.m3u8
-#EXTINF:-1,(FR) MTV Hits 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7509.m3u8
-#EXTINF:-1,(FR) NRJ 12 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/304.m3u8
-#EXTINF:-1,(FR) E! 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/23167.m3u8
-#EXTINF:-1,(FR) Discovery 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7415.m3u8
-#EXTINF:-1,(FR) Discovery Science 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6407.m3u8
-#EXTINF:-1,(FR) Nat Geo 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6406.m3u8
-#EXTINF:-1,(FR) Nat Geo Wild 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7497.m3u8
-#EXTINF:-1,(FR) Planete+ 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6404.m3u8
-#EXTINF:-1,(FR) Planete+Ci 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6405.m3u8
-#EXTINF:-1,(FR) Planete A&E 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7483.m3u8
-#EXTINF:-1,(FR) Animaux 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1431.m3u8
-#EXTINF:-1,(FR) Chasse & Peche 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1430.m3u8
-#EXTINF:-1,(FR) Science & Vie
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1432.m3u8
-#EXTINF:-1,(FR) Canal+ 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/154.m3u8
-#EXTINF:-1,(FR) Canal+ Décalé 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/909.m3u8
-#EXTINF:-1,(FR) Canal+ Family
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/156.m3u8
-#EXTINF:-1,(FR) Canal+ Series 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/439.m3u8
-#EXTINF:-1,(FR) Ciné+ Emotion 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/911.m3u8
-#EXTINF:-1,(FR) Ciné+ Classic 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/910.m3u8
-#EXTINF:-1,(FR) Ciné+ Frisson 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/912.m3u8
-#EXTINF:-1,(FR) Ciné+ Premier 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/913.m3u8
-#EXTINF:-1,(FR) Ciné+ Famiz 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6410.m3u8
-#EXTINF:-1,(FR) Ocs Choc 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/6411.m3u8
-#EXTINF:-1,(FR) OCS City 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/915.m3u8
-#EXTINF:-1,(FR) OCS Géants 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/916.m3u8
-#EXTINF:-1,(FR) OCS Max 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/917.m3u8
-#EXTINF:-1,(FR) 13éme Rue 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/442.m3u8
-#EXTINF:-1,(FR) SyFy 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/914.m3u8
-#EXTINF:-1,(FR) Serie Club 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7478.m3u8
-#EXTINF:-1,(FR) Action 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1005.m3u8
-#EXTINF:-1,(FR) A La Carte 1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7520.m3u8
-#EXTINF:-1,(FR) A La Carte 2 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7521.m3u8
-#EXTINF:-1,(FR) A La Carte 3 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7522.m3u8
-#EXTINF:-1,(FR) A La Carte 4 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7523.m3u8
-#EXTINF:-1,(FR) beIN Sports 1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/158.m3u8
-#EXTINF:-1,(FR) beIN Sports 2 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/159.m3u8
-#EXTINF:-1,(FR) beIN Sports 3 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/1219.m3u8
-#EXTINF:-1,(FR) beIN Sport Max 4 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/19331.m3u8
-#EXTINF:-1,(FR) beIN Sport Max 5 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/19330.m3u8
-#EXTINF:-1,(FR) beIN Sport Max 6 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/19329.m3u8
-#EXTINF:-1,(FR) beIN Sport Max 7 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/19328.m3u8
-#EXTINF:-1,(FR) beIN Sport Max 8 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/19327.m3u8
-#EXTINF:-1,(FR) Canal+ Sport 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/157.m3u8
-#EXTINF:-1,(FR) Eurosport 1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/579.m3u8
-#EXTINF:-1,(FR) Eurosport 2 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7518.m3u8
-#EXTINF:-1,(FR) Golf+ 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/7485.m3u8
-#EXTINF:-1,(FR) L Equipe 21
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/576.m3u8
-#EXTINF:-1,(FR) Equidia 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/30343.m3u8
-#EXTINF:-1,(FR) RMC Sport 1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/19333.m3u8
-#EXTINF:-1,(FR) RMC Sport 2 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/19332.m3u8
-#EXTINF:-1,(FR) RMC Sport 3 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/31693.m3u8
-#EXTINF:-1,(CH) SRF 1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/600.m3u8
-#EXTINF:-1,(CH) RSI La 1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24899.m3u8
-#EXTINF:-1,(CH) RSI La 2 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24898.m3u8
-#EXTINF:-1,(CH) RTS 2 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24897.m3u8
-#EXTINF:-1,(CH) RTS 1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24896.m3u8
-#EXTINF:-1,(CH) SRF Zwei 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24895.m3u8
-#EXTINF:-1,(CH) SRF Info 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24914.m3u8
-#EXTINF:-1,(CH) Discovery Channel 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24890.m3u8
-#EXTINF:-1,(CH) Tele M1 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24882.m3u8
-#EXTINF:-1,(CH) Teleclub Cinema 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24909.m3u8
-#EXTINF:-1,(CH) Teleclub Emotion 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24910.m3u8
-#EXTINF:-1,(CH) TeleClub Sport 1
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24906.m3u8
-#EXTINF:-1,(CH) Teleclub Action 4K+
-http://jb.worldip.nl:1339/live/7XkgJpSNkD/LvqhnU7tFJ/24911.m3u8
+#EXTINF:-1,*FR: 13eme Rue-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33478.m3u8
+#EXTINF:-1,*FR: 6ter FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33482.m3u8
+#EXTINF:-1,*FR: A La Carte 1 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33451.m3u8
+#EXTINF:-1,*FR: A La Carte 2 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33450.m3u8
+#EXTINF:-1,*FR: A La Carte 3 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33449.m3u8
+#EXTINF:-1,*FR: A La Carte 4 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33448.m3u8
+#EXTINF:-1,*FR: A La Carte 5 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33447.m3u8
+#EXTINF:-1,*FR: AB Moteurs FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33393.m3u8
+#EXTINF:-1,*FR: AB1 HD-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33477.m3u8
+#EXTINF:-1,*FR: AB3 FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33476.m3u8
+#EXTINF:-1,*FR: Action FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33396.m3u8
+#EXTINF:-1,*FR: Africa 24 FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33356.m3u8
+#EXTINF:-1,*FR: Alsace 20 FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33355.m3u8
+#EXTINF:-1,*FR: Animaux HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33395.m3u8
+#EXTINF:-1,*FR: Arte FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33394.m3u8
+#EXTINF:-1,*FR: beIN SPORTS 1 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33381.m3u8
+#EXTINF:-1,*FR: beIN SPORTS 2 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33380.m3u8
+#EXTINF:-1,*FR: beIN SPORTS 3 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33379.m3u8
+#EXTINF:-1,*FR: beIN SPORTS MAX 4 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33378.m3u8
+#EXTINF:-1,*FR: beIN SPORTS MAX 5 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33377.m3u8
+#EXTINF:-1,*FR: beIN SPORTS MAX 6 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33376.m3u8
+#EXTINF:-1,*FR: beIN SPORTS MAX 7 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33375.m3u8
+#EXTINF:-1,*FR: beIN SPORTS MAX 8 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33374.m3u8
+#EXTINF:-1,*FR: Bet HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33348.m3u8
+#EXTINF:-1,*FR: BFM Business HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33350.m3u8
+#EXTINF:-1,*FR: BFM TV FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33349.m3u8
+#EXTINF:-1,*FR: Boing HD-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33422.m3u8
+#EXTINF:-1,*FR: Boomerang HD-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33421.m3u8
+#EXTINF:-1,*FR: C-8 HD-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33485.m3u8
+#EXTINF:-1,*FR: C-News FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33362.m3u8
+#EXTINF:-1,*FR: C-Star-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33484.m3u8
+#EXTINF:-1,*FR: C-Star HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33483.m3u8
+#EXTINF:-1,*FR: CANAL  Cinema HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33468.m3u8
+#EXTINF:-1,*FR: CANAL  Decale HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33467.m3u8
+#EXTINF:-1,*FR: CANAL  Family HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33466.m3u8
+#EXTINF:-1,*FR: CANAL  HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33469.m3u8
+#EXTINF:-1,*FR: CANAL  Series HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33465.m3u8
+#EXTINF:-1,*FR: CANAL  Sport HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33371.m3u8
+#EXTINF:-1,*FR: Canal Alpha JU FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33352.m3u8
+#EXTINF:-1,*FR: Canal J FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33413.m3u8
+#EXTINF:-1,*FR: Canal Play 1 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33456.m3u8
+#EXTINF:-1,*FR: Canal Play 2 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33455.m3u8
+#EXTINF:-1,*FR: Canal Play 3 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33454.m3u8
+#EXTINF:-1,*FR: Canal Play 4 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33453.m3u8
+#EXTINF:-1,*FR: Canal Play 5 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33452.m3u8
+#EXTINF:-1,*FR: Cartoon Network FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33420.m3u8
+#EXTINF:-1,*FR: Chasse et Pï¿½che FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33392.m3u8
+#EXTINF:-1,*FR: Chï¿½rie 25-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33479.m3u8
+#EXTINF:-1,*FR: Cinï¿½  Classic HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33464.m3u8
+#EXTINF:-1,*FR: Cinï¿½  Emotion HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33461.m3u8
+#EXTINF:-1,*FR: Cinï¿½  Famiz FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33460.m3u8
+#EXTINF:-1,*FR: Cinï¿½  Famiz HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33459.m3u8
+#EXTINF:-1,*FR: Cinï¿½  Frisson HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33458.m3u8
+#EXTINF:-1,*FR: Cinï¿½  Premier HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33457.m3u8
+#EXTINF:-1,*FR: Cinï¿½ FX HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33463.m3u8
+#EXTINF:-1,*FR: Cinï¿½ Polar HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33462.m3u8
+#EXTINF:-1,*FR: Clubbing TV FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33346.m3u8
+#EXTINF:-1,*FR: Comï¿½die  FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33470.m3u8
+#EXTINF:-1,*FR: Demain TV FR***
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33345.m3u8
+#EXTINF:-1,*FR: Discovery Channel HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33404.m3u8
+#EXTINF:-1,*FR: Discovery Science HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33403.m3u8
+#EXTINF:-1,*FR: Disney Channel  1 FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33411.m3u8
+#EXTINF:-1,*FR: Disney Channel HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33412.m3u8
+#EXTINF:-1,*FR: Disney Cinema HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33410.m3u8
+#EXTINF:-1,*FR: Disney Junior HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33409.m3u8
+#EXTINF:-1,*FR: Disney XD HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33408.m3u8
+#EXTINF:-1,*FR: E! FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33474.m3u8
+#EXTINF:-1,*FR: Elle Girl HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33473.m3u8
+#EXTINF:-1,*FR: eNORME TV FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33344.m3u8
+#EXTINF:-1,*FR: Equidia Life FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33373.m3u8
+#EXTINF:-1,*FR: Equidia Live HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33372.m3u8
+#EXTINF:-1,*FR: Euronews FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33361.m3u8
+#EXTINF:-1,*FR: Eurosport 1 FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33370.m3u8
+#EXTINF:-1,*FR: Eurosport 2 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33369.m3u8
+#EXTINF:-1,*FR: FOOT  24 FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33368.m3u8
+#EXTINF:-1,*FR: France 2 HD-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33496.m3u8
+#EXTINF:-1,*FR: France 24 FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33360.m3u8
+#EXTINF:-1,*FR: France 3 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33495.m3u8
+#EXTINF:-1,*FR: France 4 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33494.m3u8
+#EXTINF:-1,*FR: France 5 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33493.m3u8
+#EXTINF:-1,*FR: France Info FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33359.m3u8
+#EXTINF:-1,*FR: France ï¿½ FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33358.m3u8
+#EXTINF:-1,*FR: Game One FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33405.m3u8
+#EXTINF:-1,*FR: GOLF  HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33367.m3u8
+#EXTINF:-1,*FR: Gulli HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33419.m3u8
+#EXTINF:-1,*FR: HD1**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33486.m3u8
+#EXTINF:-1,*FR: Histoire FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33353.m3u8
+#EXTINF:-1,*FR: i24NEWS FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33357.m3u8
+#EXTINF:-1,*FR: ILTV FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33354.m3u8
+#EXTINF:-1,*FR: InfoSport  FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33366.m3u8
+#EXTINF:-1,*FR: Investigation Discovery HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33402.m3u8
+#EXTINF:-1,*FR: J-One FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33406.m3u8
+#EXTINF:-1,*FR: KTO FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33391.m3u8
+#EXTINF:-1,*FR: L'Equipe 21 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33351.m3u8
+#EXTINF:-1,*FR: La Chaï¿½ne Normande TV FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33343.m3u8
+#EXTINF:-1,*FR: La Une HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33342.m3u8
+#EXTINF:-1,*FR: M6 Boutique FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33341.m3u8
+#EXTINF:-1,*FR: M6-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33492.m3u8
+#EXTINF:-1,*FR: M6 Music FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33390.m3u8
+#EXTINF:-1,*FR: Mangas HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33407.m3u8
+#EXTINF:-1,*FR: MCM FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33389.m3u8
+#EXTINF:-1,*FR: Mezzo Live HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33388.m3u8
+#EXTINF:-1,*FR: MTV Base FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33386.m3u8
+#EXTINF:-1,*FR: MTV FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33387.m3u8
+#EXTINF:-1,*FR: MTV Hits FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33385.m3u8
+#EXTINF:-1,*FR: MTV Music FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33384.m3u8
+#EXTINF:-1,*FR: Nat Geo Wild HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33397.m3u8
+#EXTINF:-1,*FR: National Geographic HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33398.m3u8
+#EXTINF:-1,*FR: Nick Jr. FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33418.m3u8
+#EXTINF:-1,*FR: NRJ 12 FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33475.m3u8
+#EXTINF:-1,*FR: NRJ Hits FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33383.m3u8
+#EXTINF:-1,*FR: NT1 HD**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33488.m3u8
+#EXTINF:-1,*FR: Numï¿½ro 23 FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33340.m3u8
+#EXTINF:-1,*FR: OCS Choc FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33446.m3u8
+#EXTINF:-1,*FR: OCS City FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33445.m3u8
+#EXTINF:-1,*FR: OCS Geants HD-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33444.m3u8
+#EXTINF:-1,*FR: OCS Go Cinema 1 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33442.m3u8
+#EXTINF:-1,*FR: OCS Go Cinema 2 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33441.m3u8
+#EXTINF:-1,*FR: OCS Go Cinema 3 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33440.m3u8
+#EXTINF:-1,*FR: OCS Go Cinema 4 HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33439.m3u8
+#EXTINF:-1,*FR: OCS Go Cinema 5 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33438.m3u8
+#EXTINF:-1,*FR: OCS Max FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33443.m3u8
+#EXTINF:-1,*FR: Ofive TV FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33339.m3u8
+#EXTINF:-1,*FR: OLTV FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33338.m3u8
+#EXTINF:-1,*FR: Orange Cinema 1 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33437.m3u8
+#EXTINF:-1,*FR: Orange Cinema 2 HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33436.m3u8
+#EXTINF:-1,*FR: Orange Cinema 3 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33435.m3u8
+#EXTINF:-1,*FR: Orange Cinema 4 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33434.m3u8
+#EXTINF:-1,*FR: Orange Cinema 5 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33433.m3u8
+#EXTINF:-1,*FR: Orange Cinema Action HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33432.m3u8
+#EXTINF:-1,*FR: Orange Cinema Aventure HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33431.m3u8
+#EXTINF:-1,*FR: Orange Cinema HD FR***
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33430.m3u8
+#EXTINF:-1,*FR: Orange Cinema Horreur HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33429.m3u8
+#EXTINF:-1,*FR: Orange Comment C'Est Fait HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33428.m3u8
+#EXTINF:-1,*FR: Orange Documentaire HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33427.m3u8
+#EXTINF:-1,*FR: Orange Enquete Exlusive HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33426.m3u8
+#EXTINF:-1,*FR: Paramount Channel HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33425.m3u8
+#EXTINF:-1,*FR: Paris Premiere FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33337.m3u8
+#EXTINF:-1,*FR: Piwi  HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33417.m3u8
+#EXTINF:-1,*FR: Planï¿½te  A&E HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33400.m3u8
+#EXTINF:-1,*FR: Planï¿½te  CI HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33399.m3u8
+#EXTINF:-1,*FR: Planï¿½te  HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33401.m3u8
+#EXTINF:-1,*FR: RFM FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33336.m3u8
+#EXTINF:-1,*FR: RMC Decouverte HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33335.m3u8
+#EXTINF:-1,*FR: RTL 9-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33480.m3u8
+#EXTINF:-1,*FR: RTS Deux HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33498.m3u8
+#EXTINF:-1,*FR: RTS Un HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33499.m3u8
+#EXTINF:-1,*FR: Science & Vie TV FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33334.m3u8
+#EXTINF:-1,*FR: Seasons HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33472.m3u8
+#EXTINF:-1,*FR: serieclub FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33471.m3u8
+#EXTINF:-1,*FR: SFR Sport 1 HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33365.m3u8
+#EXTINF:-1,*FR: SFR Sport 2 HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33364.m3u8
+#EXTINF:-1,*FR: SFR Sport 3 HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33363.m3u8
+#EXTINF:-1,*FR: Stingray Brava FR***
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33333.m3u8
+#EXTINF:-1,*FR: Syfy-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33490.m3u8
+#EXTINF:-1,*FR: TCM Cinï¿½ma HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33424.m3u8
+#EXTINF:-1,*FR: tï¿½lï¿½TOON  HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33416.m3u8
+#EXTINF:-1,*FR: tï¿½va HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33327.m3u8
+#EXTINF:-1,*FR: TF1 HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33497.m3u8
+#EXTINF:-1,*FR: Tiji HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33414.m3u8
+#EXTINF:-1,*FR: TMC FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33423.m3u8
+#EXTINF:-1,*FR: Toute l'Histoire FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33332.m3u8
+#EXTINF:-1,*FR: Trace Urban FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33382.m3u8
+#EXTINF:-1,*FR: Trek HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33331.m3u8
+#EXTINF:-1,*FR: TV Breizh HD FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33329.m3u8
+#EXTINF:-1,*FR: TV5 Monde FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33328.m3u8
+#EXTINF:-1,*FR: TVBreizh FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33330.m3u8
+#EXTINF:-1,*FR: Ushuaï¿½a TV FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33326.m3u8
+#EXTINF:-1,*FR: Vosges Tï¿½lï¿½vision HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33325.m3u8
+#EXTINF:-1,*FR: W9 HD-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33487.m3u8
+#EXTINF:-1,*FR: Weo HD FR**
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33347.m3u8
+#EXTINF:-1,*FR: Zouzous FR-
+http://95.154.194.14:8000/live/s0WDXAo3hJ/xYKtCuWj0N/33415.m3u8
