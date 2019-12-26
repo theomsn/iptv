@@ -1,367 +1,1047 @@
 #EXTM3U
-#EXTINF:-1,FR:_M6_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30680.m3u8
-#EXTINF:-1,FR:_M6_MUSIC_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30679.m3u8
-#EXTINF:-1,FR:_CANAL+CINEMA_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30664.m3u8
-#EXTINF:-1,FR:_CANAL CINEMA_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30663.m3u8
-#EXTINF:-1,FR:_CANAL CINEMA_SD
-http://tv2iptv.com:8000/live/Janel/janel123/30662.m3u8
-#EXTINF:-1,FR:_CANAL DECALE_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30658.m3u8
-#EXTINF:-1,FR:_CANAL+DECALE_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30657.m3u8
-#EXTINF:-1,FR:_CANAL+DECALE_SD
-http://tv2iptv.com:8000/live/Janel/janel123/30656.m3u8
-#EXTINF:-1,FR:_CANAL FAMILY_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30661.m3u8
-#EXTINF:-1,FR:_CANAL FAMILY_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30660.m3u8
-#EXTINF:-1,FR:_CANAL FAMILY_SD
-http://tv2iptv.com:8000/live/Janel/janel123/30659.m3u8
-#EXTINF:-1,FR:_CANAL+SERIES_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30655.m3u8
-#EXTINF:-1,FR:_CANAL+SERIES_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30654.m3u8
-#EXTINF:-1,FR:_CANAL+SERIES_SD
-http://tv2iptv.com:8000/live/Janel/janel123/30653.m3u8
-#EXTINF:-1,FR:_CANAL+SPORT_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30652.m3u8
-#EXTINF:-1,FR:_CANAL+SPORT_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30651.m3u8
-#EXTINF:-1,FR:_CANAL+SPORT_SD
-http://tv2iptv.com:8000/live/Janel/janel123/30650.m3u8
-#EXTINF:-1,FR:_CANAL _ SD
-http://tv2iptv.com:8000/live/Janel/janel123/30665.m3u8
-#EXTINF:-1,FR:_CANAL+_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30667.m3u8
-#EXTINF:-1,FR:_CANAL-J-HD
-http://tv2iptv.com:8000/live/Janel/janel123/30506.m3u8
-#EXTINF:-1,FR:_CANAL_+HD
-http://tv2iptv.com:8000/live/Janel/janel123/30666.m3u8
-#EXTINF:-1,FR:_ACTION_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30626.m3u8
-#EXTINF:-1,FR:_Planet _CI
-http://tv2iptv.com:8000/live/Janel/janel123/30557.m3u8
-#EXTINF:-1,FR:_Planete HD
-http://tv2iptv.com:8000/live/Janel/janel123/30558.m3u8
-#EXTINF:-1,FR:_PLANETE+_AE
-http://tv2iptv.com:8000/live/Janel/janel123/30563.m3u8
-#EXTINF:-1,FR:_BFM
-http://tv2iptv.com:8000/live/Janel/janel123/30522.m3u8
-#EXTINF:-1,FR:_NICKELODEON
-http://tv2iptv.com:8000/live/Janel/janel123/30518.m3u8
-#EXTINF:-1,FR:_NICKELODEON_4TEEN
-http://tv2iptv.com:8000/live/Janel/janel123/30517.m3u8
-#EXTINF:-1,FR:_NICKELODEON_Junior
-http://tv2iptv.com:8000/live/Janel/janel123/30516.m3u8
-#EXTINF:-1,FR:_Disney_Channel
-http://tv2iptv.com:8000/live/Janel/janel123/30512.m3u8
-#EXTINF:-1,FR:_DISNEY_XD
-http://tv2iptv.com:8000/live/Janel/janel123/30514.m3u8
-#EXTINF:-1,FR:_DISNEY_JUNIOR
-http://tv2iptv.com:8000/live/Janel/janel123/30513.m3u8
-#EXTINF:-1,FR:_DISNEY_CINEMA
-http://tv2iptv.com:8000/live/Janel/janel123/30511.m3u8
-#EXTINF:-1,FR:_13EME_RUE
-http://tv2iptv.com:8000/live/Janel/janel123/30550.m3u8
-#EXTINF:-1,FR:_6Ter_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30539.m3u8
-#EXTINF:-1,FR:_AB1-HD
-http://tv2iptv.com:8000/live/Janel/janel123/30621.m3u8
-#EXTINF:-1,FR:_AB_MOTEURS
-http://tv2iptv.com:8000/live/Janel/janel123/30622.m3u8
-#EXTINF:-1,FR:_Aerostar_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30552.m3u8
-#EXTINF:-1,FR:_ALTICE_STUDIO
-http://tv2iptv.com:8000/live/Janel/janel123/30556.m3u8
-#EXTINF:-1,FR:_Animaux_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30548.m3u8
-#EXTINF:-1,FR:_Arte
-http://tv2iptv.com:8000/live/Janel/janel123/30521.m3u8
-#EXTINF:-1,FR:_BET
-http://tv2iptv.com:8000/live/Janel/janel123/30632.m3u8
-#EXTINF:-1,FR:_BOING_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30509.m3u8
-#EXTINF:-1,FR:_BRAVA_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30636.m3u8
-#EXTINF:-1,FR:_C8_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30538.m3u8
-#EXTINF:-1,FR:_Cartoon_Network
-http://tv2iptv.com:8000/live/Janel/janel123/30503.m3u8
-#EXTINF:-1,FR:_CHASSE&PECHE
-http://tv2iptv.com:8000/live/Janel/janel123/30547.m3u8
-#EXTINF:-1,FR:_CHERIE_25
-http://tv2iptv.com:8000/live/Janel/janel123/30541.m3u8
-#EXTINF:-1,FR:_Cine Classic_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30645.m3u8
-#EXTINF:-1,FR:_Cine+Famiz_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30647.m3u8
-#EXTINF:-1,FR:_CINE+FRISSON_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30648.m3u8
-#EXTINF:-1,FR:_CINE+PREMIERE_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30649.m3u8
-#EXTINF:-1,FR:_Cine+_Emotion_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30646.m3u8
-#EXTINF:-1,FR:_CINE-FX_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30619.m3u8
-#EXTINF:-1,FR:_CINE_POLAR_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30620.m3u8
-#EXTINF:-1,FR:_COMEDIE+HD
-http://tv2iptv.com:8000/live/Janel/janel123/30629.m3u8
-#EXTINF:-1,FR:_CSTAR
-http://tv2iptv.com:8000/live/Janel/janel123/30537.m3u8
-#EXTINF:-1,FR:_C_news
-http://tv2iptv.com:8000/live/Janel/janel123/30532.m3u8
-#EXTINF:-1,FR:_DISCOVERY_CHANNEL_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30571.m3u8
-#EXTINF:-1,FR:_DISCOVERY_CHANNEL_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30570.m3u8
-#EXTINF:-1,FR:_DISCOVERY_CHANNEL_SD
-http://tv2iptv.com:8000/live/Janel/janel123/30569.m3u8
-#EXTINF:-1,FR:_DISCOVERY_FAMILY_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30565.m3u8
-#EXTINF:-1,FR:_DISCOVERY_INVESTIGATION_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30564.m3u8
-#EXTINF:-1,FR:_DISCOVERY_SCIENCE_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30568.m3u8
-#EXTINF:-1,FR:_DISCOVERY_SCIENCE_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30567.m3u8
-#EXTINF:-1,FR:_DISCOVERY_SCIENCE_SD
-http://tv2iptv.com:8000/live/Janel/janel123/30566.m3u8
-#EXTINF:-1,FR:_E
-http://tv2iptv.com:8000/live/Janel/janel123/5333.m3u8
-#EXTINF:-1,FR:_E!_ENTERTAINMENT_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30633.m3u8
-#EXTINF:-1,FR:_Enorme_TV
-http://tv2iptv.com:8000/live/Janel/janel123/30523.m3u8
-#EXTINF:-1,FR:_EQUIDIA
-http://tv2iptv.com:8000/live/Janel/janel123/30583.m3u8
-#EXTINF:-1,FR:_EQUIDIA_LIFE
-http://tv2iptv.com:8000/live/Janel/janel123/30582.m3u8
-#EXTINF:-1,FR:_EQUIPE21_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30525.m3u8
-#EXTINF:-1,FR:_Euronews_France
-http://tv2iptv.com:8000/live/Janel/janel123/30524.m3u8
-#EXTINF:-1,FR:_EUROSPORT1_france
-http://tv2iptv.com:8000/live/Janel/janel123/30527.m3u8
-#EXTINF:-1,FR:_EUROSPORT_2_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30526.m3u8
-#EXTINF:-1,FR:_EXTREME_SPORT_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30578.m3u8
-#EXTINF:-1,FR:_FOOT+
-http://tv2iptv.com:8000/live/Janel/janel123/30586.m3u8
-#EXTINF:-1,FR:_GAME_ONE
-http://tv2iptv.com:8000/live/Janel/janel123/30576.m3u8
-#EXTINF:-1,FR:_GAME_ONE+1
-http://tv2iptv.com:8000/live/Janel/janel123/30575.m3u8
-#EXTINF:-1,FR:_GOLF+
-http://tv2iptv.com:8000/live/Janel/janel123/30577.m3u8
-#EXTINF:-1,FR:_Gulli
-http://tv2iptv.com:8000/live/Janel/janel123/30508.m3u8
-#EXTINF:-1,FR:_HD1_FRANCE
-http://tv2iptv.com:8000/live/Janel/janel123/30634.m3u8
-#EXTINF:-1,FR:_INFOSPORT+
-http://tv2iptv.com:8000/live/Janel/janel123/30585.m3u8
-#EXTINF:-1,FR:_J_ONE
-http://tv2iptv.com:8000/live/Janel/janel123/30574.m3u8
-#EXTINF:-1,FR:_La_Télé
-http://tv2iptv.com:8000/live/Janel/janel123/30543.m3u8
-#EXTINF:-1,FR:_LCP
-http://tv2iptv.com:8000/live/Janel/janel123/30531.m3u8
-#EXTINF:-1,FR:_Mangas
-http://tv2iptv.com:8000/live/Janel/janel123/30515.m3u8
-#EXTINF:-1,FR:_MCM
-http://tv2iptv.com:8000/live/Janel/janel123/30675.m3u8
-#EXTINF:-1,FR:_MCM_TOP_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30678.m3u8
-#EXTINF:-1,FR:_MCS_BIEN_ETRE
-http://tv2iptv.com:8000/live/Janel/janel123/30584.m3u8
-#EXTINF:-1,FR:_mezzo
-http://tv2iptv.com:8000/live/Janel/janel123/30669.m3u8
-#EXTINF:-1,FR:_MFM_TV
-http://tv2iptv.com:8000/live/Janel/janel123/30544.m3u8
-#EXTINF:-1,FR:_Monaco_Info
-http://tv2iptv.com:8000/live/Janel/janel123/30545.m3u8
-#EXTINF:-1,FR:_MOTORVISION
-http://tv2iptv.com:8000/live/Janel/janel123/30623.m3u8
-#EXTINF:-1,FR:_MTV_DANCE
-http://tv2iptv.com:8000/live/Janel/janel123/30673.m3u8
-#EXTINF:-1,FR:_MTV_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30674.m3u8
-#EXTINF:-1,FR:_MTV_HITS
-http://tv2iptv.com:8000/live/Janel/janel123/30672.m3u8
-#EXTINF:-1,FR:_MTV_ROCKS
-http://tv2iptv.com:8000/live/Janel/janel123/30671.m3u8
-#EXTINF:-1,FR:_MY_CUISINE
-http://tv2iptv.com:8000/live/Janel/janel123/30555.m3u8
-#EXTINF:-1,FR:_NATIONAL_GEO_CHANNEL_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30572.m3u8
-#EXTINF:-1,FR:_NAT_GEO_WILD_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30573.m3u8
-#EXTINF:-1,FR:_NRJ_12HD
-http://tv2iptv.com:8000/live/Janel/janel123/30668.m3u8
-#EXTINF:-1,FR:_NRJ_HITS_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30676.m3u8
-#EXTINF:-1,FR:_NT1
-http://tv2iptv.com:8000/live/Janel/janel123/30624.m3u8
-#EXTINF:-1,FR:_OCS_CHOC_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30641.m3u8
-#EXTINF:-1,FR:_OCS_CITY
-http://tv2iptv.com:8000/live/Janel/janel123/30642.m3u8
-#EXTINF:-1,FR:_OCS_GEANTS
-http://tv2iptv.com:8000/live/Janel/janel123/30643.m3u8
-#EXTINF:-1,FR:_OCS_MAX_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30644.m3u8
-#EXTINF:-1,FR:_OKLM_TV
-http://tv2iptv.com:8000/live/Janel/janel123/30677.m3u8
-#EXTINF:-1,FR:_OLTV
-http://tv2iptv.com:8000/live/Janel/janel123/30580.m3u8
-#EXTINF:-1,FR:_OMTV
-http://tv2iptv.com:8000/live/Janel/janel123/30581.m3u8
-#EXTINF:-1,FR:_Ouatch_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30553.m3u8
-#EXTINF:-1,FR:_PARAMOUNT_CHANNEL
-http://tv2iptv.com:8000/live/Janel/janel123/30639.m3u8
-#EXTINF:-1,FR:_PARAMOUNT_DECALE_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30638.m3u8
-#EXTINF:-1,FR:_PARIE_PRMIERE_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30635.m3u8
-#EXTINF:-1,FR:_Piwi HD
-http://tv2iptv.com:8000/live/Janel/janel123/30519.m3u8
-#EXTINF:-1,FR:_BeinSport1_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30602.m3u8
-#EXTINF:-1,FR:_BeinSport1_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30601.m3u8
-#EXTINF:-1,FR:_BeinSport1_SD
-http://tv2iptv.com:8000/live/Janel/janel123/30600.m3u8
-#EXTINF:-1,FR:_BeinSport2_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30599.m3u8
-#EXTINF:-1,FR:_BeinSport2_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30598.m3u8
-#EXTINF:-1,FR:_BeinSport2_SD
-http://tv2iptv.com:8000/live/Janel/janel123/30597.m3u8
-#EXTINF:-1,FR:_BeinSport3_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30596.m3u8
-#EXTINF:-1,FR:_BeinSport3_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30595.m3u8
-#EXTINF:-1,FR:_BeinSport3_SD
-http://tv2iptv.com:8000/live/Janel/janel123/30594.m3u8
-#EXTINF:-1,FR:_BeinSportMax10
-http://tv2iptv.com:8000/live/Janel/janel123/30587.m3u8
-#EXTINF:-1,FR:_BeinSportMax4
-http://tv2iptv.com:8000/live/Janel/janel123/30593.m3u8
-#EXTINF:-1,FR:_BeinSportMax5
-http://tv2iptv.com:8000/live/Janel/janel123/30592.m3u8
-#EXTINF:-1,FR:_BeinSportMax6
-http://tv2iptv.com:8000/live/Janel/janel123/30591.m3u8
-#EXTINF:-1,FR:_BeinSportMax7
-http://tv2iptv.com:8000/live/Janel/janel123/30590.m3u8
-#EXTINF:-1,FR:_BeinSportMax8
-http://tv2iptv.com:8000/live/Janel/janel123/30589.m3u8
-#EXTINF:-1,FR:_BeinSportMax9
-http://tv2iptv.com:8000/live/Janel/janel123/30588.m3u8
-#EXTINF:-1,FR:_France_2HD
-http://tv2iptv.com:8000/live/Janel/janel123/30686.m3u8
-#EXTINF:-1,FR:_France_3HD
-http://tv2iptv.com:8000/live/Janel/janel123/30685.m3u8
-#EXTINF:-1,FR:_France_4HD
-http://tv2iptv.com:8000/live/Janel/janel123/30684.m3u8
-#EXTINF:-1,FR:_France_5HD
-http://tv2iptv.com:8000/live/Janel/janel123/30683.m3u8
-#EXTINF:-1,FR:_France_OHD
-http://tv2iptv.com:8000/live/Janel/janel123/30682.m3u8
-#EXTINF:-1,FR:_France24
-http://tv2iptv.com:8000/live/Janel/janel123/30529.m3u8
-#EXTINF:-1,FR:_FRANCEINFO
-http://tv2iptv.com:8000/live/Janel/janel123/30528.m3u8
-#EXTINF:-1,FR:_TF1_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30681.m3u8
-#EXTINF:-1,FR:_RMC_DECOUVERTE
-http://tv2iptv.com:8000/live/Janel/janel123/30540.m3u8
-#EXTINF:-1,FR:_RMC_SPORT10_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30606.m3u8
-#EXTINF:-1,FR:_RMC_SPORT11HD
-http://tv2iptv.com:8000/live/Janel/janel123/30605.m3u8
-#EXTINF:-1,FR:_RMC_SPORT12HD
-http://tv2iptv.com:8000/live/Janel/janel123/30604.m3u8
-#EXTINF:-1,FR:_RMC_SPORT13HD
-http://tv2iptv.com:8000/live/Janel/janel123/30603.m3u8
-#EXTINF:-1,FR:_RMC_SPORT1_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30616.m3u8
-#EXTINF:-1,FR:_RMC_SPORT1_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30615.m3u8
-#EXTINF:-1,FR:_RMC_SPORT2_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30614.m3u8
-#EXTINF:-1,FR:_RMC_SPORT3_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30613.m3u8
-#EXTINF:-1,FR:_RMC_SPORT4_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30612.m3u8
-#EXTINF:-1,FR:_RMC_SPORT5_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30611.m3u8
-#EXTINF:-1,FR:_RMC_SPORT6_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30610.m3u8
-#EXTINF:-1,FR:_RMC_SPORT7_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30609.m3u8
-#EXTINF:-1,FR:_RMC_SPORT8_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30608.m3u8
-#EXTINF:-1,FR:_RMC_SPORT9_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30607.m3u8
-#EXTINF:-1,FR:_RMC_STORY
-http://tv2iptv.com:8000/live/Janel/janel123/30530.m3u8
-#EXTINF:-1,FR:_RTL9_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30625.m3u8
-#EXTINF:-1,FR:_Science_et_Vie TV
-http://tv2iptv.com:8000/live/Janel/janel123/30546.m3u8
-#EXTINF:-1,FR:_SEASONS
-http://tv2iptv.com:8000/live/Janel/janel123/30562.m3u8
-#EXTINF:-1,FR:_SERIE_CLUB_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30640.m3u8
-#EXTINF:-1,FR:_COMEDY_CENTRAL
-http://tv2iptv.com:8000/live/Janel/janel123/30579.m3u8
-#EXTINF:-1,FR:_SUNDANCE_CHANNEL
-http://tv2iptv.com:8000/live/Janel/janel123/30631.m3u8
-#EXTINF:-1,FR:_Syfy_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30630.m3u8
-#EXTINF:-1,FR:_TCM_CINEMA_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30628.m3u8
-#EXTINF:-1,FR:_Teletoon+
-http://tv2iptv.com:8000/live/Janel/janel123/30504.m3u8
-#EXTINF:-1,FR:_TEVA_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30618.m3u8
-#EXTINF:-1,FR:_THE_MUSEUM_CHANNEL_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30637.m3u8
-#EXTINF:-1,FR:_TiJi
-http://tv2iptv.com:8000/live/Janel/janel123/30505.m3u8
-#EXTINF:-1,FR:_TMC
-http://tv2iptv.com:8000/live/Janel/janel123/30627.m3u8
-#EXTINF:-1,FR:_TOONAMI
-http://tv2iptv.com:8000/live/Janel/janel123/30510.m3u8
-#EXTINF:-1,FR:_TOUTE_L'HISTOIRE
-http://tv2iptv.com:8000/live/Janel/janel123/30561.m3u8
-#EXTINF:-1,FR:_TRACE_URBAN_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30670.m3u8
-#EXTINF:-1,FR:_TV5_Monde
-http://tv2iptv.com:8000/live/Janel/janel123/30534.m3u8
-#EXTINF:-1,FR:_TVA
-http://tv2iptv.com:8000/live/Janel/janel123/30535.m3u8
-#EXTINF:-1,FR:_TV_BREIZH_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30617.m3u8
-#EXTINF:-1,FR:_TV_M3
-http://tv2iptv.com:8000/live/Janel/janel123/30533.m3u8
-#EXTINF:-1,FR:_USHUAIA_TV_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30549.m3u8
-#EXTINF:-1,FR:_VIVOLTA
-http://tv2iptv.com:8000/live/Janel/janel123/30551.m3u8
-#EXTINF:-1,FR:_Voyage_FULLHD
-http://tv2iptv.com:8000/live/Janel/janel123/30560.m3u8
-#EXTINF:-1,FR:_Voyage_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30559.m3u8
-#EXTINF:-1,FR:_W9_HD
-http://tv2iptv.com:8000/live/Janel/janel123/30536.m3u8
-#EXTINF:-1,FR:_WARNER_TV
-http://tv2iptv.com:8000/live/Janel/janel123/30554.m3u8
-#EXTINF:-1,FR:_Weo
-http://tv2iptv.com:8000/live/Janel/janel123/30542.m3u8
+#EXTINF:-1,|FR| BFM TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534637.m3u8
+#EXTINF:-1,|FR| BFM TV HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5730.m3u8
+#EXTINF:-1,|FR| BFM PARIS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534636.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5718.m3u8
+#EXTINF:-1,|FR| FRANCE 24
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543867.m3u8
+#EXTINF:-1,|FR| LCI FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534634.m3u8
+#EXTINF:-1,|FR| LCI HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5724.m3u8
+#EXTINF:-1,|FR| BFM BUSINESS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534635.m3u8
+#EXTINF:-1,|FR| CNEWS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534631.m3u8
+#EXTINF:-1,|FR| CNEWS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5727.m3u8
+#EXTINF:-1,|FR| EURONEWS FRANCE
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534632.m3u8
+#EXTINF:-1,|FR| FRANCE INFO FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534633.m3u8
+#EXTINF:-1,|FR| FRANCE INFO HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5715.m3u8
+#EXTINF:-1,|FR| LA CHAINE METEO
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534638.m3u8
+#EXTINF:-1,|FR| LA CHAINE PARLEMENTAIRE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534625.m3u8
+#EXTINF:-1,|FR| TF1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534652.m3u8
+#EXTINF:-1,|FR| TF1 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5713.m3u8
+#EXTINF:-1,|FR| TF1 +1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534651.m3u8
+#EXTINF:-1,|FR| FRANCE 2 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534650.m3u8
+#EXTINF:-1,|FR| FRANCE 2 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5712.m3u8
+#EXTINF:-1,|FR| FRANCE 3 NOA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575541360.m3u8
+#EXTINF:-1,|FR| FRANCE 3 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534649.m3u8
+#EXTINF:-1,|FR| FRANCE 3 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5711.m3u8
+#EXTINF:-1,|FR| FRANCE 4 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534648.m3u8
+#EXTINF:-1,|FR| FRANCE 4 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5710.m3u8
+#EXTINF:-1,|FR| FRANCE 5 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534647.m3u8
+#EXTINF:-1,|FR| FRANCE 5 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5709.m3u8
+#EXTINF:-1,|FR| FRANCE Ô FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536551.m3u8
+#EXTINF:-1,|FR| FRANCE O HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5708.m3u8
+#EXTINF:-1,|FR| M6 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534646.m3u8
+#EXTINF:-1,|FR| M6 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5723.m3u8
+#EXTINF:-1,|FR| TMC HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5675.m3u8
+#EXTINF:-1,|FR| TV8 MONT BLANC HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536550.m3u8
+#EXTINF:-1,|FR| NRJ 12 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534639.m3u8
+#EXTINF:-1,|FR| NRJ 12 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5731.m3u8
+#EXTINF:-1,|FR| RTL9 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534654.m3u8
+#EXTINF:-1,|FR| RTL9 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5679.m3u8
+#EXTINF:-1,|FR| W9 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534643.m3u8
+#EXTINF:-1,|FR| W9 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5719.m3u8
+#EXTINF:-1,|FR| TMC FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534642.m3u8
+#EXTINF:-1,|FR| TMC +1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534641.m3u8
+#EXTINF:-1,|FR| 6TER FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534621.m3u8
+#EXTINF:-1,|FR| 6TER HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5732.m3u8
+#EXTINF:-1,|FR| TFX FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534640.m3u8
+#EXTINF:-1,|FR| TFX HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5722.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534653.m3u8
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5680.m3u8
+#EXTINF:-1,|FR| ARTE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534645.m3u8
+#EXTINF:-1,|FR| ARTE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5706.m3u8
+#EXTINF:-1,==== CANALSAT CINEMA ====
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5736.m3u8
+#EXTINF:-1,|FR| CANAL+ FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534799.m3u8
+#EXTINF:-1,|FR| CANAL+ HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5698.m3u8
+#EXTINF:-1,|FR| CANAL+ DECALE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534796.m3u8
+#EXTINF:-1,|FR| CANAL+ DECALE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5697.m3u8
+#EXTINF:-1,|FR| CANAL+ FAMILY FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534797.m3u8
+#EXTINF:-1,|FR| CANAL+ FAMILY HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5695.m3u8
+#EXTINF:-1,|FR| CANAL+ CINEMA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534798.m3u8
+#EXTINF:-1,|FR| CANAL+ CINEMA HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5696.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534794.m3u8
+#EXTINF:-1,|FR| CINE+ PREMIER HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5686.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534791.m3u8
+#EXTINF:-1,|FR| CINE+ FRISSON HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5689.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534793.m3u8
+#EXTINF:-1,|FR| CINE+ EMOTION HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5690.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534792.m3u8
+#EXTINF:-1,|FR| CINE+ FAMIZ HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5687.m3u8
+#EXTINF:-1,|FR| CINE+ CLUB FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534790.m3u8
+#EXTINF:-1,|FR| CINE+ CLUB HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5691.m3u8
+#EXTINF:-1,|FR| CINE+ FX HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5688.m3u8
+#EXTINF:-1,|FR| CINE+ POLAR HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5693.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534789.m3u8
+#EXTINF:-1,|FR| CINE+ CLASSIC HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5692.m3u8
+#EXTINF:-1,|FR| OCS CHOC FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534781.m3u8
+#EXTINF:-1,|FR| OCS CHOC HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5683.m3u8
+#EXTINF:-1,|FR| OCS CITY FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534782.m3u8
+#EXTINF:-1,|FR| OCS CITY HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5682.m3u8
+#EXTINF:-1,|FR| OCS GEANTS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534783.m3u8
+#EXTINF:-1,|FR| OCS GEANTS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5681.m3u8
+#EXTINF:-1,|FR| OCS MAX FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534780.m3u8
+#EXTINF:-1,|FR| OCS MAX HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5684.m3u8
+#EXTINF:-1,|FR| 13EME RUE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534777.m3u8
+#EXTINF:-1,|FR| 13 EME RUE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5699.m3u8
+#EXTINF:-1,|FR| ACTION FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534778.m3u8
+#EXTINF:-1,|FR| ACTION HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5700.m3u8
+#EXTINF:-1,|FR| WARNER TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534787.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534788.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534785.m3u8
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5701.m3u8
+#EXTINF:-1,|FR| PARAMOUNT DECALE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534784.m3u8
+#EXTINF:-1,|FR| TCM CINEMA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534786.m3u8
+#EXTINF:-1,|FR| TCM CINEMA HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5676.m3u8
+#EXTINF:-1,|FR| POLAR+ FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534779.m3u8
+#EXTINF:-1,|FR| SUNDANCE TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536596.m3u8
+#EXTINF:-1,|FR| CANALPLAY 1
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5673.m3u8
+#EXTINF:-1,|FR| CANALPLAY 2
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5672.m3u8
+#EXTINF:-1,|FR| CANALPLAY 3
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5671.m3u8
+#EXTINF:-1,|FR| CANALPLAY 4
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5670.m3u8
+#EXTINF:-1,|FR| CANALPLAY 5
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5669.m3u8
+#EXTINF:-1,|FR| CANALPLAY 6
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5668.m3u8
+#EXTINF:-1,|FR| CANALPLAY 7
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5667.m3u8
+#EXTINF:-1,|FR| CANALPLAY 8
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5666.m3u8
+#EXTINF:-1,|FR| CANALPLAY 9
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5665.m3u8
+#EXTINF:-1,|FR| CANALPLAY 10
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5664.m3u8
+#EXTINF:-1,|FR| CANALPLAY 11
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5663.m3u8
+#EXTINF:-1,|FR| CANALPLAY 12
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5662.m3u8
+#EXTINF:-1,|FR| CANALPLAY 13
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5661.m3u8
+#EXTINF:-1,|FR| CANALPLAY 14
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5660.m3u8
+#EXTINF:-1,|FR| CANALPLAY 15
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5659.m3u8
+#EXTINF:-1,|FR| CANALPLAY 16
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5658.m3u8
+#EXTINF:-1,==== DIVERTISSEMENT====
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5735.m3u8
+#EXTINF:-1,|FR| CANAL+ SERIES FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534795.m3u8
+#EXTINF:-1,|FR| CANAL+ SERIES HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5694.m3u8
+#EXTINF:-1,|FR| SERIE CLUB FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536590.m3u8
+#EXTINF:-1,|FR| SERIE CLUB HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5678.m3u8
+#EXTINF:-1,|FR| IDF 1 FHD/SD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534627.m3u8
+#EXTINF:-1,|FR| CHERIE 25 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534618.m3u8
+#EXTINF:-1,|FR| CHERIE 25 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5728.m3u8
+#EXTINF:-1,|FR| COMEDIE+ FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534776.m3u8
+#EXTINF:-1,|FR| COMEDIE+ HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5685.m3u8
+#EXTINF:-1,|FR| COMEDY CENTRAL FRANCE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534775.m3u8
+#EXTINF:-1,|FR| SYFY FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534774.m3u8
+#EXTINF:-1,|FR| SYFY HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5677.m3u8
+#EXTINF:-1,|FR| TF1 SERIES / FILMS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534624.m3u8
+#EXTINF:-1,|FR| TF1 SERIE FILM HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5725.m3u8
+#EXTINF:-1,|FR| C STAR FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534623.m3u8
+#EXTINF:-1,|FR| TV BREIZH FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536600.m3u8
+#EXTINF:-1,|FR| C8 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534644.m3u8
+#EXTINF:-1,|FR| C8 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5729.m3u8
+#EXTINF:-1,|FR| MUSEUM CHANNEL FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536591.m3u8
+#EXTINF:-1,|FR| MY CUISINE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536593.m3u8
+#EXTINF:-1,|FR| TEVA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536589.m3u8
+#EXTINF:-1,|FR| E! ENTERTAINMENT FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536597.m3u8
+#EXTINF:-1,|FR| NON STOP PEOPLE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536595.m3u8
+#EXTINF:-1,|FR| ELLE GIRLS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536598.m3u8
+#EXTINF:-1,|FR| ELLE GIRL HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5726.m3u8
+#EXTINF:-1,|FR| NOVELAS TV
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536592.m3u8
+#EXTINF:-1,|FR| BET FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536599.m3u8
+#EXTINF:-1,|FR| BET HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535696.m3u8
+#EXTINF:-1,|FR| A+ FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536588.m3u8
+#EXTINF:-1,|FR| NOLLYWOOD FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536587.m3u8
+#EXTINF:-1,|FR| CLIQUE TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535685.m3u8
+#EXTINF:-1,|FR| KTO HAITI
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575544438.m3u8
+#EXTINF:-1,|FR| VIVOLTA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535666.m3u8
+#EXTINF:-1,|FR| RMC STORY HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5721.m3u8
+#EXTINF:-1,|FR| RMC STORY FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534620.m3u8
+#EXTINF:-1,|FR| VICELAND FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536594.m3u8
+#EXTINF:-1,|FR| VIA GRAND PARIS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534628.m3u8
+#EXTINF:-1,|FR| DEMAIN ! IDF
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534626.m3u8
+#EXTINF:-1,|FR| GRAND LILLE TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534629.m3u8
+#EXTINF:-1,|FR| MB LIVE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534759.m3u8
+#EXTINF:-1,|FR| WEO FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534630.m3u8
+#EXTINF:-1,|FR| ELEVEN SPORT 1 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575546514.m3u8
+#EXTINF:-1,|FR| ELEVEN SPORT 2 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575546515.m3u8
+#EXTINF:-1,|FR| ELEVEN SPORT 3 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575546516.m3u8
+#EXTINF:-1,==== DOCUMENTAIRES ====
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527069.m3u8
+#EXTINF:-1,|FR| NASA TV 4K
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534761.m3u8
+#EXTINF:-1,|FR| ULTRA NATURE 4K
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534765.m3u8
+#EXTINF:-1,|FR| MYZEN TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536139.m3u8
+#EXTINF:-1,|FR| ANIMAUX FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534754.m3u8
+#EXTINF:-1,|FR| ANIMAUX HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5742.m3u8
+#EXTINF:-1,|FR| CHASSE & PÊCHE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534752.m3u8
+#EXTINF:-1,|FR| CHASSE & PECHE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5741.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534770.m3u8
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5751.m3u8
+#EXTINF:-1,|FR| DISCOVERY CHANNEL FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534768.m3u8
+#EXTINF:-1,|FR| DISCOVERY HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5753.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534769.m3u8
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5754.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534766.m3u8
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5752.m3u8
+#EXTINF:-1,|FR| DISCOVERY FAMILY FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534767.m3u8
+#EXTINF:-1,|FR| HISTOIRE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534758.m3u8
+#EXTINF:-1,|FR| HISTOIRE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5750.m3u8
+#EXTINF:-1,|FR| NAT GEO CHANNEL FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534763.m3u8
+#EXTINF:-1,|FR| NAT GEO HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5739.m3u8
+#EXTINF:-1,|FR| NAT GEO WILD FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534762.m3u8
+#EXTINF:-1,|FR| NAT GEO WILD HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5740.m3u8
+#EXTINF:-1,|FR| PLANETE+ A&E FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534772.m3u8
+#EXTINF:-1,|FR| PLANETE+ A&E HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5747.m3u8
+#EXTINF:-1,|FR| PLANETE+ CI FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534771.m3u8
+#EXTINF:-1,|FR| PLANETE+ CI HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5748.m3u8
+#EXTINF:-1,|FR| PLANETE+ FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534773.m3u8
+#EXTINF:-1,|FR| PLANETE+ HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5749.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534619.m3u8
+#EXTINF:-1,|FR| RMC HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5720.m3u8
+#EXTINF:-1,|FR| SCIENCES & VIE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534760.m3u8
+#EXTINF:-1,|FR| SCIENCE & VIE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5745.m3u8
+#EXTINF:-1,|FR| SEASONS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534755.m3u8
+#EXTINF:-1,|FR| SEASONS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5746.m3u8
+#EXTINF:-1,|FR| TOUTE L'HISTOIRE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534757.m3u8
+#EXTINF:-1,|FR| TOUTE L'HISTOIRE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5755.m3u8
+#EXTINF:-1,|FR| MY CUISINE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534655.m3u8
+#EXTINF:-1,|FR| TREK FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534756.m3u8
+#EXTINF:-1,|FR| TREK HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5738.m3u8
+#EXTINF:-1,|FR| USHUAIA TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534764.m3u8
+#EXTINF:-1,|FR| USHUAIA HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5744.m3u8
+#EXTINF:-1,|FR| VOYAGE TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534753.m3u8
+#EXTINF:-1,|FR| VOYAGE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5743.m3u8
+#EXTINF:-1,==== MUSIC ====
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535928.m3u8
+#EXTINF:-1,|FR| M6 MUSIC FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535677.m3u8
+#EXTINF:-1,|FR| M6 MUSIC HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535694.m3u8
+#EXTINF:-1,|FR| C STAR HITS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575534622.m3u8
+#EXTINF:-1,|FR| NRJ TV
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5714.m3u8
+#EXTINF:-1,|FR| RFM
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5707.m3u8
+#EXTINF:-1,|FR| MCM FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535687.m3u8
+#EXTINF:-1,|FR| MCM HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535692.m3u8
+#EXTINF:-1,|FR| MCM TOP FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535686.m3u8
+#EXTINF:-1,|FR| MCM TOP HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535691.m3u8
+#EXTINF:-1,|FR| MTV BASE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535701.m3u8
+#EXTINF:-1,|FR| MTV DANCE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535700.m3u8
+#EXTINF:-1,|FR| MTV FRANCE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535689.m3u8
+#EXTINF:-1,|FR| MTV HITS FRANCE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535688.m3u8
+#EXTINF:-1,|FR| MTV MUSIC HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535699.m3u8
+#EXTINF:-1,|FR| MTV PULSE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535698.m3u8
+#EXTINF:-1,|FR| NRJ HITS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535674.m3u8
+#EXTINF:-1,|FR| BRAVA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535669.m3u8
+#EXTINF:-1,|FR| BRAVA HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535695.m3u8
+#EXTINF:-1,|FR| DJAZZ TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535670.m3u8
+#EXTINF:-1,|FR| MELODY TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535671.m3u8
+#EXTINF:-1,|FR| MEZZO LIVE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535668.m3u8
+#EXTINF:-1,|FR| OKLM FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535676.m3u8
+#EXTINF:-1,|FR| ONE TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535667.m3u8
+#EXTINF:-1,|FR| RFM TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535675.m3u8
+#EXTINF:-1,|FR| RFM TV HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535690.m3u8
+#EXTINF:-1,|FR| TRACE AFRICA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535683.m3u8
+#EXTINF:-1,|FR| TRACE GOSPEL FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535681.m3u8
+#EXTINF:-1,|FR| TRACE MZIKI FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535680.m3u8
+#EXTINF:-1,|FR| TRACE NAIJA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535679.m3u8
+#EXTINF:-1,|FR| TRACE TOCA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535678.m3u8
+#EXTINF:-1,|FR| TRACE TROPICAL FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535682.m3u8
+#EXTINF:-1,|FR| TRACE URBAN FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535684.m3u8
+#EXTINF:-1,|FR| TRACE URBAN HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535697.m3u8
+#EXTINF:-1,|FR| VH1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535673.m3u8
+#EXTINF:-1,|FR| VH1 CLASSIC FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535672.m3u8
+#EXTINF:-1,|FR| C STAR HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575548657.m3u8
+#EXTINF:-1,|FR| SUNDANCE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575548658.m3u8
+#EXTINF:-1,|FR| WARNER HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575548659.m3u8
+#EXTINF:-1,|FR| TEVA HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575548661.m3u8
+#EXTINF:-1,|FR| E! ENTERTAINMENT HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575548660.m3u8
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575548662.m3u8
+#EXTINF:-1,|FR| MEZZO LIVE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575548663.m3u8
+#EXTINF:-1,==== SPORTS ====
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527298.m3u8
+#EXTINF:-1,|FR| RMC SPORT NEWS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536192.m3u8
+#EXTINF:-1,|FR| RMC SPORTS 1 ACCESS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575548668.m3u8
+#EXTINF:-1,|FR| RMC SPORTS 2 ACCESS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575548669.m3u8
+#EXTINF:-1,|FR| RMC SPORTS 3 ACCESS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575548670.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4K
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536187.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536191.m3u8
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527095.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536190.m3u8
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527094.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536189.m3u8
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527097.m3u8
+#EXTINF:-1,|FR| RMC SPORT 4 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536188.m3u8
+#EXTINF:-1,|FR| RMC SPORT 5 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527096.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536186.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536185.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536184.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536183.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536182.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536181.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536180.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536179.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536178.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536177.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536176.m3u8
+#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536175.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536174.m3u8
+#EXTINF:-1,|FR| beINSPORTS 1 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527107.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536173.m3u8
+#EXTINF:-1,|FR| beINSPORTS 2 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527106.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536172.m3u8
+#EXTINF:-1,|FR| beINSPORTS 3 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527105.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 4 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575546260.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 4
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536171.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 5 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575546261.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 5
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536170.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 6 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575546262.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 6
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536169.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 7 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575546263.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 7
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536168.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 8 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575546264.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 8
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536167.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 9 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575546265.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 9
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536166.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 10 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575546266.m3u8
+#EXTINF:-1,|FR| BEINSPORTS MAX 10
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536165.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORT FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536164.m3u8
+#EXTINF:-1,|FR| CANAL+ SPORTS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527104.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536157.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 2 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536156.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 3 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536155.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 4 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536154.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 5 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536153.m3u8
+#EXTINF:-1,|FR| MULTISPORTS 6 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536152.m3u8
+#EXTINF:-1,|FR| FOOT+ 24/24 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536158.m3u8
+#EXTINF:-1,|FR| FOOT+ HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527090.m3u8
+#EXTINF:-1,|FR| ONZEO FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536151.m3u8
+#EXTINF:-1,|FR| INFOSPORT  FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536163.m3u8
+#EXTINF:-1,|FR| INFOSPORT HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527099.m3u8
+#EXTINF:-1,|FR| L'EQUIPE 21 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536162.m3u8
+#EXTINF:-1,|FR| L'EQUIPE 21 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527098.m3u8
+#EXTINF:-1,|FR| BFM SPORTS
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527092.m3u8
+#EXTINF:-1,|FR| GIRONDINS TV
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536149.m3u8
+#EXTINF:-1,|FR| OLTV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536150.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536161.m3u8
+#EXTINF:-1,|FR| EUROSPORT 1 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527101.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536160.m3u8
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527100.m3u8
+#EXTINF:-1,|FR| EXTREME SPORTS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527091.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIFE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527103.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536159.m3u8
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527102.m3u8
+#EXTINF:-1,|FR| AUTOMOTO HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536145.m3u8
+#EXTINF:-1,|FR| MOTORSPORT TV
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536146.m3u8
+#EXTINF:-1,|FR| AEROSTAR TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536141.m3u8
+#EXTINF:-1,|FR| EXTREME SPORTS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536147.m3u8
+#EXTINF:-1,|FR| TRACE SPORT STARS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536148.m3u8
+#EXTINF:-1,|FR| GOLF+ FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536144.m3u8
+#EXTINF:-1,|FR| GOLF CHANNEL FRANCE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536143.m3u8
+#EXTINF:-1,|FR| MUSCULATION TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536140.m3u8
+#EXTINF:-1,==== ENFANTS ====
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527070.m3u8
+#EXTINF:-1,|FR| LE PERE NOËL TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535964.m3u8
+#EXTINF:-1,|FR| LIVE PEPPA PIG FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535963.m3u8
+#EXTINF:-1,|FR| GAME ONE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535950.m3u8
+#EXTINF:-1,|FR| GAME ONE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5647.m3u8
+#EXTINF:-1,|FR| GAME ONE +1
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535949.m3u8
+#EXTINF:-1,|FR| BOING FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535956.m3u8
+#EXTINF:-1,|FR| BOING HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5642.m3u8
+#EXTINF:-1,|FR| BOOMERANG FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535955.m3u8
+#EXTINF:-1,|FR| BOOMERANG HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5650.m3u8
+#EXTINF:-1,|FR| CANAL J FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535965.m3u8
+#EXTINF:-1,|FR| CANAL J HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5648.m3u8
+#EXTINF:-1,|FR| PIWI+ FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535960.m3u8
+#EXTINF:-1,|FR| BABY TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535962.m3u8
+#EXTINF:-1,|FR| BABY TV
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5640.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535953.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5632.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535974.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5643.m3u8
+#EXTINF:-1,|FR| DISNEY CHANNEL +1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535973.m3u8
+#EXTINF:-1,|FR| DISENEY CHANNEL +1
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5644.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535972.m3u8
+#EXTINF:-1,|FR| DISNEY CINEMA HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5638.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535971.m3u8
+#EXTINF:-1,|FR| DISNEY JUNIOR HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5633.m3u8
+#EXTINF:-1,|FR| DISNEY XD FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535970.m3u8
+#EXTINF:-1,|FR| DISNEY XD HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5639.m3u8
+#EXTINF:-1,|FR| GONG
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5635.m3u8
+#EXTINF:-1,|FR| GONG MAX
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535948.m3u8
+#EXTINF:-1,|FR| GULLI  FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535961.m3u8
+#EXTINF:-1,|FR| GULLI HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5628.m3u8
+#EXTINF:-1,|FR| J-ONE FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535951.m3u8
+#EXTINF:-1,|FR| MANGAS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535952.m3u8
+#EXTINF:-1,|FR| MANGAS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5631.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535966.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5649.m3u8
+#EXTINF:-1,|FR| NICKELODEON FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535969.m3u8
+#EXTINF:-1,|FR| NICKELODEON HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5651.m3u8
+#EXTINF:-1,|FR| NICKELODEON +1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535968.m3u8
+#EXTINF:-1,|FR| NICK JUNIOR FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535967.m3u8
+#EXTINF:-1,|FR| NICKELODEON JUNIOR HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5634.m3u8
+#EXTINF:-1,|FR| PIWI+ HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5636.m3u8
+#EXTINF:-1,|FR| TELETOON+ FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535958.m3u8
+#EXTINF:-1,|FR| TELETOON+ HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5630.m3u8
+#EXTINF:-1,|FR| TELETOON +1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535957.m3u8
+#EXTINF:-1,|FR| TIJI FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535959.m3u8
+#EXTINF:-1,|FR| TIJI HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5645.m3u8
+#EXTINF:-1,|FR| TOONAMI FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575535954.m3u8
+#EXTINF:-1,|FR| TOONAMI HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5629.m3u8
+#EXTINF:-1,|FR| ZOUZOUS
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5641.m3u8
+#EXTINF:-1,|FR| |FR| TF1 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542985.m3u8
+#EXTINF:-1,|FR| 6TER |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3302
+#EXTINF:-1,|FR| ACTION |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3325
+#EXTINF:-1,|FR| ALTICE STUDIO |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542951.m3u8
+#EXTINF:-1,|FR| ARTE |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3287
+#EXTINF:-1,|FR| BFMTV |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3293
+#EXTINF:-1,|FR| BOOMERANG |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3324
+#EXTINF:-1,|FR| C8 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542959.m3u8
+#EXTINF:-1,|FR| CANAL |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542963.m3u8
+#EXTINF:-1,|FR| CANAL CINEMA |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3313
+#EXTINF:-1,|FR| CANAL+ DECALE |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542961.m3u8
+#EXTINF:-1,|FR| CANAL FAMILY |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542962.m3u8
+#EXTINF:-1,|FR| CANAL J |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3346
+#EXTINF:-1,|FR| CANAL+ SERIES |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542965.m3u8
+#EXTINF:-1,|FR| CANAL SPORT |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3316
+#EXTINF:-1,|FR| CARTOON N |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542967.m3u8
+#EXTINF:-1,|FR| CHASSE PECHE |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3350
+#EXTINF:-1,|FR| CINE CLASSIC |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542969.m3u8
+#EXTINF:-1,|FR| CINE EMOTION |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3326
+#EXTINF:-1,|FR| CINE FAMIZ |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542971.m3u8
+#EXTINF:-1,|FR| CINE FRISSON |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542972.m3u8
+#EXTINF:-1,|FR| CINE PREMIER |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3327
+#EXTINF:-1,|FR| CNEWS |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3290
+#EXTINF:-1,|FR| CSTAR |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3291
+#EXTINF:-1,|FR| Discovery IN |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542980.m3u8
+#EXTINF:-1,|FR| dis sc |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542981.m3u8
+#EXTINF:-1,|FR| DISCOVERY |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542977.m3u8
+#EXTINF:-1,|FR| DISCOVERY Family |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3343
+#EXTINF:-1,|FR| DISNEY CHANNEL |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3331
+#EXTINF:-1,|FR| DISNEY JUNIOR |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3332
+#EXTINF:-1,|FR| equidia |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3334
+#EXTINF:-1,|FR| EUROSPORT |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3355
+#EXTINF:-1,|FR| EUROSPORT2 |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3356
+#EXTINF:-1,|FR| FRANCE 2 |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3282
+#EXTINF:-1,|FR| FRANCE3 |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3283
+#EXTINF:-1,|FR| FRANCE4 |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3284
+#EXTINF:-1,|FR| FRANCE5 |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3285
+#EXTINF:-1,|FR| FRANCEINFO |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542989.m3u8
+#EXTINF:-1,|FR| FRANCE O |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3294
+#EXTINF:-1,|FR| gameone |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542992.m3u8
+#EXTINF:-1,|FR| GULLI |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3295
+#EXTINF:-1,|FR| L'EQUIPE |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3296
+#EXTINF:-1,|FR| LCI |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3292
+#EXTINF:-1,|FR| M6 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542996.m3u8
+#EXTINF:-1,|FR| M6 MUSIC |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542997.m3u8
+#EXTINF:-1,|FR| MCM TOP |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3333
+#EXTINF:-1,|FR| MY CUISINE |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3329
+#EXTINF:-1,|FR| NAT GEO WILD |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543001.m3u8
+#EXTINF:-1,|FR| NATIONAL GEO CHANNEL |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3330
+#EXTINF:-1,|FR| NICK JUNIOR |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543004.m3u8
+#EXTINF:-1,|FR| NICKELODEON |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543003.m3u8
+#EXTINF:-1,|FR| NICKELODEON 4TEEN |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543002.m3u8
+#EXTINF:-1,|FR| NON STOP PEOPLE |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3354
+#EXTINF:-1,|FR| NRJ12 |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3298
+#EXTINF:-1,|FR| NUMERO 23 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543007.m3u8
+#EXTINF:-1,|FR| OCS CHOC |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543008.m3u8
+#EXTINF:-1,|FR| OCS CITY |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543009.m3u8
+#EXTINF:-1,|FR| OCS GEANTS |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543010.m3u8
+#EXTINF:-1,|FR| OCS MAX |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3335
+#EXTINF:-1,|FR| PLANETE |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3341
+#EXTINF:-1,|FR| PLANETE A&E |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3348
+#EXTINF:-1,|FR| PLANETE CI |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3349
+#EXTINF:-1,|FR| RMC DECOUVERTE |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3305
+#EXTINF:-1,|FR| RMC SPORT1 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543016.m3u8
+#EXTINF:-1,|FR| RMC SPORT2 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543017.m3u8
+#EXTINF:-1,|FR| RMC SPORT3 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543018.m3u8
+#EXTINF:-1,|FR| RMC SPORT4 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543019.m3u8
+#EXTINF:-1,|FR| RMC STORY |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3304
+#EXTINF:-1,|FR| SCIENCES&VIE |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3351
+#EXTINF:-1,|FR| SEASONS |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575543022.m3u8
+#EXTINF:-1,|FR| TEVA |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3328
+#EXTINF:-1,|FR| TF1 SERIES FILMS |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3300
+#EXTINF:-1,|FR| TFX |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3299
+#EXTINF:-1,|FR| TMC |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3301
+#EXTINF:-1,|FR| USHUAIA |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3347
+#EXTINF:-1,|FR| W9 |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3288
+#EXTINF:-1,|FR| WARNER TV |HEVC|
+http://iptv6.premium-stv.com:25461/sourcefrhevcsnow/2508538873/3353
+#EXTINF:-1,|FR| BEINSPORTS 1 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547974.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 2 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547975.m3u8
+#EXTINF:-1,|FR| BEINSPORTS 3 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547976.m3u8
+#EXTINF:-1,|FR| TOUTE L HISTOIRE |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547977.m3u8
+#EXTINF:-1,|FR| RTL9 |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547978.m3u8
+#EXTINF:-1,|FR| ANIMAUX |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547979.m3u8
+#EXTINF:-1,|FR| CARTOON NETWORK |HEVC|
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547980.m3u8
+#EXTINF:-1,==== BELGIQUE ====
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575527071.m3u8
+#EXTINF:-1,|BE| AB1 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536634.m3u8
+#EXTINF:-1,|BE| AB3 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536633.m3u8
+#EXTINF:-1,|BE| BE CURIOUS FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536632.m3u8
+#EXTINF:-1,|BE| CANAL ALPHA JU FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536631.m3u8
+#EXTINF:-1,|BE| STAR TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536630.m3u8
+#EXTINF:-1,|BE| 192 TV
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3993.m3u8
+#EXTINF:-1,|BE| 2BE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3992.m3u8
+#EXTINF:-1,|BE| AL ACHT TV
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3991.m3u8
+#EXTINF:-1,|BE| CANVAS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3990.m3u8
+#EXTINF:-1,|BE| CINEMA 1
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1868
+#EXTINF:-1,|BE| CINEMA 2
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1869
+#EXTINF:-1,|BE| CLUB RTL
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3987.m3u8
+#EXTINF:-1,|BE| CHAMBER TV
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1867
+#EXTINF:-1,|BE| EEN HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3986.m3u8
+#EXTINF:-1,|BE| KADET
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3985.m3u8
+#EXTINF:-1,|BE| KET OP2
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1880
+#EXTINF:-1,|BE| LA DEUX HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3983.m3u8
+#EXTINF:-1,|BE| LA TROIS HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3982.m3u8
+#EXTINF:-1,|BE| LA UNE HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3981.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 1
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3980.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 2
+http://tv.sigma-iptv.com:7000/live/45905/13543107/503.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 3
+http://tv.sigma-iptv.com:7000/live/45905/13543107/345.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 1 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3979.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 2 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3978.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 3 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3977.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 4 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3976.m3u8
+#EXTINF:-1,|BE| PLAY SPORT 5 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3975.m3u8
+#EXTINF:-1,|BE| Q2 HD
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1886
+#EXTINF:-1,|BE| RTL PLUG
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3973.m3u8
+#EXTINF:-1,|BE| RTL TVI HD
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1889
+#EXTINF:-1,|BE| RTL LUXEMBOURG
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1888
+#EXTINF:-1,|BE| TV LUX
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3970.m3u8
+#EXTINF:-1,|BE| VIER HD
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1893
+#EXTINF:-1,|BE| VOO SPORT 1 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3968.m3u8
+#EXTINF:-1,|BE| VOO SPORT 2 HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3967.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 1
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3994.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3966.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 3
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3965.m3u8
+#EXTINF:-1,|BE| VTM HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3964.m3u8
+#EXTINF:-1,|BE| VTM KZOOM HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/3963.m3u8
+#EXTINF:-1,|BE| ZES CRIME
+http://iptv6.premium-stv.com:25461/sourcebelgiquesnow/4550109412/1902
+#EXTINF:-1,=====SUISSE=====
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5621.m3u8
+#EXTINF:-1,|SW| RTS UN FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536635.m3u8
+#EXTINF:-1,|SW| RTS UN HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5620.m3u8
+#EXTINF:-1,|SW| RTS DEUX FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575536636.m3u8
+#EXTINF:-1,|SW| RTS DEUX  HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5619.m3u8
+#EXTINF:-1,|SW| PULS 8 FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5618.m3u8
+#EXTINF:-1,|SW| 3+ HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5602.m3u8
+#EXTINF:-1,|SW| NICKELODEON
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5617.m3u8
+#EXTINF:-1,|SW| 4+ HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5616.m3u8
+#EXTINF:-1,|SW| COMEDY CENTRAL HD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5615.m3u8
+#EXTINF:-1,|SW| TVO
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5614.m3u8
+#EXTINF:-1,|SW| PLUS 8
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5601.m3u8
+#EXTINF:-1,|SW| ROUGE TV
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5613.m3u8
+#EXTINF:-1,|SW| SRF 1
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5600.m3u8
+#EXTINF:-1,|SW| SRF ZWEI
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5599.m3u8
+#EXTINF:-1,|SW| SRF INFO
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5598.m3u8
+#EXTINF:-1,|SW| TELE BAERN
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5605.m3u8
+#EXTINF:-1,|SW| TELE TOP
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5604.m3u8
+#EXTINF:-1,|SW| TELE M1
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5606.m3u8
+#EXTINF:-1,|SW| TELE ZURICH
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5603.m3u8
+#EXTINF:-1,|SW| TELECLUB CINEMA
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5612.m3u8
+#EXTINF:-1,|SW| TELECLUB PRIME
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5611.m3u8
+#EXTINF:-1,|SW| TELECLUB SPORT1
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5608.m3u8
+#EXTINF:-1,|SW| TELECLUB STAR
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5610.m3u8
+#EXTINF:-1,|SW| TELECLUBSPORT 2
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5607.m3u8
+#EXTINF:-1,|SW| TELECLUB SPORT 3
+http://tv.sigma-iptv.com:7000/live/45905/13543107/5609.m3u8
