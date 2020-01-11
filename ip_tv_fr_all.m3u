@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,|FR| ALTICE STUDIO FHD
-http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13787.m3u8
-#EXTINF:-1,|FR| ALTICE STUDIO HD
-http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/28413.m3u8
 #EXTINF:-1,|FR| ANIMAUX FHD
 http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13789.m3u8
 #EXTINF:-1,|FR| ANIMAUX HD
@@ -363,3 +359,7 @@ http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39429.m3u8
 http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39454.m3u8
 #EXTINF:-1,|FR| PIWI  (SD)
 http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/39515.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO FHD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/13787.m3u8
+#EXTINF:-1,|FR| ALTICE STUDIO HD
+http://iptvpro.premium-tv.media:8789/live/francesdclark/MJ5jwjknJA/28413.m3u8
